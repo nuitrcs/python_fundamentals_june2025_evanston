@@ -1,4 +1,4 @@
-# Python Fundamentals (June 2025, Chicago)
+# Python Fundamentals (June 2025, Evanston)
 
 This workshop is offered by [Northwestern IT Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
